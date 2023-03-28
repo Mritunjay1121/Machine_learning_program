@@ -8,3 +8,6 @@ From the very start of the model, I have explained each an every step why a spec
 The highlighting point is the use of Sequenttial Feature Selector.
 
 I have also provided a whimsical wireframe for easy understanding of the model proceedings. 
+
+
+[here](https://whimsical.com/assignment-L784xUMrELRDuyzyGkrzcK)
