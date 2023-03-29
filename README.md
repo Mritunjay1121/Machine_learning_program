@@ -11,4 +11,4 @@ The highlighting point is the use of Sequenttial Feature Selector.
 
 I am also providing a [whimsical wireframe](https://whimsical.com/assignment-L784xUMrELRDuyzyGkrzcK) for easy understanding of the model proceedings. 
 
-![img](https://whimsical.com/assignment-L784xUMrELRDuyzyGkrzcK)
+![img](https://github.com/Mritunjay1121/Datasets/blob/main/Assignment%402x.png)
